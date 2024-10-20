@@ -1585,12 +1585,12 @@ body {
 
 @media only screen and (max-width: 768px) {
   .title {
-    top: 120px;
+    top: 92px;
     font-size: 20px;
   }
   
   .flowers {
-    bottom: 40px;
+    bottom: 12px;
     transform: scale(2);
   }
 }
